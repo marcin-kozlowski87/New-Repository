@@ -1,1 +1,1 @@
-# New-Repository
+Console.WriteLine("Hello World");
